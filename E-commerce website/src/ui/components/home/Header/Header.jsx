@@ -5,7 +5,7 @@ import { HiMenuAlt2 } from "react-icons/hi";
 import { motion } from "framer-motion";
 import { logo, logoLight } from "../../../../assets/images";
 import Image from "../../designLayouts/Image";
-import { navBarList } from "../../../constants";
+import { navBarList } from "../../../../constants";
 import Flex from "../../designLayouts/Flex";
 
 const Header = () => {
