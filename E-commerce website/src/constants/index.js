@@ -51,7 +51,7 @@ import {
   ricoh5,
   espson1,
   espson2,
-} from "../../assets/images/index";
+} from "../assets/images/index";
 
 // import "./style.css";
 
