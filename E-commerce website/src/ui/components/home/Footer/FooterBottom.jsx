@@ -11,7 +11,7 @@ const FooterBottom = () => {
           </span>
           Copyright 2022 | Orebi shopping | All Rights Reserved |
           <a href="https://reactbd.com/" target="_blank" rel="noreferrer">
-            <span className="ml-1 font-medium group-hover:text-primeColor">Powered by ReactBD.com</span>
+            <span className="ml-1 font-medium group-hover:text-primeColor">KalpeshChavada.com</span>
           </a>
         </p>
       </div>
