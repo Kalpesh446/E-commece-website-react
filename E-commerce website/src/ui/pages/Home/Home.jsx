@@ -10,13 +10,20 @@ import SpecialOffers from "../../components/home/SpecialOffers/SpecialOffers";
 const Home = () => {
   return (
     <div className="w-full mx-auto">
+      {/*    Home banner    */}
       <Banner />
+      {/* Banner bottom */}
       <BannerBottom />
       <div className="max-w-container mx-auto px-4">
+        {/* sale section */}
         <Sale />
+        {/* New Arrivals section*/}
         <NewArrivals />
+        {/* best Sellers section */}
         <BestSellers />
+        {/* year Product section*/}
         <YearProduct />
+        {/* special offer section */}
         <SpecialOffers />
       </div>
     </div>
